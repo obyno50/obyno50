@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obyno50
 - 👀 I’m interested in nice apps
-- 🌱 I’m currently learning laravel, react native, c#
+- 🌱 I’m writing apps with a combination of react native/react, laravel, c#
 - 💞️ I’m looking to collaborate on nice projects
 - 📫 How to reach me obynopascal2016@gmail.com
 
